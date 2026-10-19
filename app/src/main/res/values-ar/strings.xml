@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">مغامرات الرياضيات</string>
+    <string name="welcome_title">مرحبًا بك في مغامرات الرياضيات!</string>
+    <string name="welcome_subtitle">تعلم الضرب والقسمة مع الروبوت كوانتم</string>
+    <string name="select_language">اختر لغتك / Choose Your Language</string>
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+    <string name="start_adventure">ابدأ المغامرة</string>
+</resources>

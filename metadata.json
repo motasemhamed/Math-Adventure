@@ -1,0 +1,6 @@
+{
+  "name": "Math Adventure",
+  "description": "Bilingual Android math learning game for children teaching multiplication and division through visual methods, 10 mini-games, adaptive assessments, and parent reports in English and Arabic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

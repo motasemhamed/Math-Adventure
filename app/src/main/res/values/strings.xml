@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Math Adventure</string>
+    <string name="welcome_title">Welcome to Math Adventure!</string>
+    <string name="welcome_subtitle">Learn Multiplication and Division with Robo-Chip</string>
+    <string name="select_language">Choose Your Language / اختر لغتك</string>
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+    <string name="start_adventure">Start Adventure</string>
+</resources>
